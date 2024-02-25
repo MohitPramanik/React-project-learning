@@ -16,13 +16,13 @@ To run the Tic-Tac-Toe app locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/MohitPramanik/tic-tac-toe-react.git
+   git clone https://github.com/MohitPramanik/tic-tac-toe.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd tic-tac-toe-react
+   cd tic-tac-toe
    ```
 
 3. Install the required Node modules:
